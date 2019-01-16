@@ -196,6 +196,9 @@ class UnconnectedResourcePage extends Component {
                       </div>
                     )}
                   </Panel>
+                  <div>
+                    {`${t('ReservationInfo.otherResources')}`}
+                  </div>
                 </Col>
                 <Col className="app-ResourceInfo__images" lg={3} md={3} xs={12}>
                   {images.map(this.renderImage)}

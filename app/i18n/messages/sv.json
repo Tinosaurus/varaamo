@@ -183,6 +183,7 @@
   "ReservationInfo.loginMessage": "För att kunna boka detta utrymme måste du <a href=”/login”>logga in</a>.",
   "ReservationInfo.maxNumberOfReservations": "Maximalt antal bokningar per användare:",
   "ReservationInfo.reservationMaxLength": "Bokningens maximala längd:",
+  "ReservationInfo.otherResources": "Premises övriga resurser",
   "ReservationInfoModal.cancelButton": "Annulera evenmanget",
   "ReservationInfoModal.confirmButton": "Bekräfta reserveringen",
   "ReservationInfoModal.denyButton": "Förneka reserveringen",

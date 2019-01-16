@@ -181,6 +181,7 @@
   "ReservationInfo.loginMessage": "Sinun täytyy <a href=\"/login\">kirjautua sisään</a>, jotta voit tehdä varauksen tähän tilaan.",
   "ReservationInfo.maxNumberOfReservations": "Maksimimäärä varauksia per käyttäjä:",
   "ReservationInfo.reservationMaxLength": "Varauksen maksimipituus:",
+  "ReservationInfo.otherResources": "Kiinteistön muut resurssit",
   "ReservationInfoModal.cancelButton": "Peru tapahtuma",
   "ReservationInfoModal.confirmButton": "Hyväksy tapahtuma",
   "ReservationInfoModal.denyButton": "Hylkää tapahtuma",
