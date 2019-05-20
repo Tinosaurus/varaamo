@@ -1,4 +1,4 @@
-* 0.1.2
+* 0.2.0
     ** MAJOR CHANGES **
 
     - Add new selection field to sort filtered resources. Currently support to search by name, type, premise, people.
